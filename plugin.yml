@@ -1,0 +1,7 @@
+name: EntityInvMenuTest
+main: muqsit\entityinvmenutest\Main
+api: 4.0.0
+version: 0.0.1
+commands:
+  emenu:
+    description: Opens an entity invmenu
